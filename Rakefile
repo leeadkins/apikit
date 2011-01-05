@@ -15,10 +15,10 @@ Jeweler::Tasks.new do |gem|
   gem.name = "apikit"
   gem.homepage = "http://github.com/leeadkins/apikit"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Build bad-ass API interfaces.}
+  gem.description = %Q{apikit helps you interface with web services by writing out the service specification using an easy, readable, and descriptive DSL.}
   gem.email = "lee@ravsonic.com"
-  gem.authors = ["Lee"]
+  gem.authors = ["Lee Adkins"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
   # and development dependencies are only needed for development (ie running rake tasks, tests, etc)
   #  gem.add_runtime_dependency 'jabber4r', '> 0.1'
